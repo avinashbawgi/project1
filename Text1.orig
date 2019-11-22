@@ -1,0 +1,9 @@
+Welcome to Git Training
+This is rahul changing.
+<<<<<<< HEAD
+This is Avinash Changes changes by rahulng chnages again by rahul.
+||||||| a6dfa5d
+This is Avinash Changes changes by rahul.
+=======
+This is Avinash Changes changes by rahul. Changes by avinash.
+>>>>>>> f1e6bf56b3d36e1fd4cea70e44c15bec5c936060
